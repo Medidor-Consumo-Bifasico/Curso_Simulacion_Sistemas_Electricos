@@ -26,8 +26,5 @@ El entorno de desarrollo integrado (IDE) de Arduino es una aplicación multiplat
 
 Para el desarrollo del curso se utilizara la aplicacion Arduino IDE, la misma que puede ser descarga en el siguiente [link](https://www.arduino.cc/en/software)
 
-## Instalar Soporte ESP32
 
-
-## Instalar Libreria PZEM-004T-v30
 
